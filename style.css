@@ -1,0 +1,237 @@
+.headerblock{
+   background-color: #505050;
+   width: 1440;
+   height: 70px;
+}
+
+.logocompany{
+position: absolute;
+width: 77px;
+height: 67px;
+left: 16px;
+top: 10px;
+
+}
+
+.logocompany1{
+position: absolute;
+width: 189px;
+height: 61px;
+margin-left: 115px;
+margin-top: 10px;
+ 
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+   
+   
+   
+color: #FFFFFF;
+   
+}
+.headerinput{
+position: absolute;
+width: 613px;
+height: 35px;
+left: 432px;
+top: 22px;
+
+background: #FFFFFF;
+border-radius: 20px;
+   
+}
+
+.search-svgrepo{
+position: absolute;
+width: 10x;
+margin-left: 1100px;
+margin-top: 16px;
+
+
+}
+
+.searchborder{
+position: absolute;
+width: 136px;
+height: 52px;
+margin-top: 10px;
+
+background: #8294D4;
+border-radius: 10px;
+}
+
+.buydiv{
+   box-sizing: border-box;
+
+position: absolute;
+width: 225px;
+height: 228px;
+left: 396px;
+top: 141px;
+
+background: #EDEDED;
+border: 1px solid #B0B0B0;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 3px;
+}
+
+.buyphoto1{
+position: absolute;
+width: 181px;
+height: 138px;
+margin-left: 20px;
+margin-top: 20px;
+
+background: #D9D9D9;
+}
+
+.infotext {
+position: absolute;
+width: 106px;
+height: 19px;
+left: 460px;
+top: 300px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+
+}
+
+.buybackground{
+   position: absolute;
+width: 100.54px;
+height: 30px;
+left: 410px;
+top: 326px;
+
+background: #62A5F3;
+border-radius: 6px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.buytext{
+position: absolute;
+width: 100.54px;
+height: 15px;
+left: 409px;
+top: 332px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.pricetext{
+   position: absolute;
+width: 63.22px;
+height: 19px;
+left: 530px;
+top: 317px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+
+color: #62A5F3;
+}
+
+
+.buydiv1{
+   box-sizing: border-box;
+
+position: absolute;
+width: 225px;
+height: 228px;
+left: 657px;
+top: 141px;
+
+background: #EDEDED;
+border: 1px solid #B0B0B0;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 3px;
+}
+
+.buyphoto2{
+position: absolute;
+width: 181px;
+height: 138px;
+left: 20px;
+top: 20px;
+
+background: #D9D9D9;
+}
+
+.infotext1{
+   position: absolute;
+   width: 106px;
+   height: 19px;
+   left: 716px;
+   top: 300px;
+   
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 19px;
+   
+   color: #000000;
+}
+
+.buybackground1{
+   position: absolute;
+width: 100.54px;
+height: 30px;
+left: 670px;
+top: 326px;
+
+background: #62A5F3;
+border-radius: 6px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.buytext1{
+   position: absolute;
+width: 100.54px;
+height: 15px;
+left: 670px;
+top: 332px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.pricetext1{
+   position: absolute;
+width: 63.22px;
+height: 19px;
+left: 790.78px;
+top: 317px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+
+color: #62A5F3;
+}
